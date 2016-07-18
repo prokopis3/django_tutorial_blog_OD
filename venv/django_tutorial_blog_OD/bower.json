@@ -1,0 +1,29 @@
+{
+  "name": "django_tutorial_blog_OD",
+  "description": "django toturial blog site",
+  "main": "~/venv/django_tutorial_blog_OD",
+  "keywords": [
+    "Orhtodox",
+    "blog",
+    "django",
+    "bower",
+    "framework"
+  ],
+  "authors": [
+    "Antoniadis Prokopios"
+  ],
+  "license": "MIT",
+  "homepage": "localhost:8000",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "blogengine/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "html5-boilerplate": "^5.3.0"
+  }
+}
